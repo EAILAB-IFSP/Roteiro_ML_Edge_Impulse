@@ -160,14 +160,16 @@ já criado pela a própria Edge Impulse.
 <p>
 
 Clique no Add Learning Block e selecione o Transfer Learning, um código
-previamente treinado pela própria plataforma quer irá fazer o ajuste
+previamente treinado pela própria plataforma fará o ajuste
 fino para se enquadrar em nosso projeto.
 <p>
   
 <img src="oitava.png" alt="oitava" width="700" height="500">
 <p>
 
-Clique no Save Impulse e clique em Image ao lado.
+Clique no Impulse Design e clique em Image conforme a seguir.
+<p>
+  
 <img src="nona.png" alt="nona" width="600" height="500">
 <p>
 
