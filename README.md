@@ -276,8 +276,21 @@ O QR code do nosso projeto para escaneamento está disponível abaixo.
 <p>
 
 Com o seu smartphone, leia o QR-code e aguarde o aplicativo ser instalado.
+<p>
+  
+<img src="lendo_qrccode.png" alt="quatorze" width="700" height="600">
+</p>
+
 Abra qualquer foto da base de dados e aponte a câmera do smartphone para a imagem.
+</p>
+*** PARABÉNS! ***
+</p>
 Veja na tela do aparelho o diagnóstico produzido pelo seu primeiro projeto de IA!
+</p>
+<img src="Pulmão_saudavel.png" alt="quatorze" width="700" height="600">
+</p>
+<img src="Pulmão_doente.png" alt="quatorze" width="700" height="600">
+</p>
 
 Caso queria acessar o
 <a href="https://studio.edgeimpulse.com/public/649874/live">link</a>
