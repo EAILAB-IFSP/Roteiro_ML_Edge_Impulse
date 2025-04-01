@@ -277,7 +277,7 @@ O QR code do nosso projeto para escaneamento está disponível abaixo.
 
 Com o seu smartphone, leia o QR-code e aguarde o aplicativo ser instalado.
 <p>
-<img src="lendo_qrccode.png" alt="quatorze" width="700" height="600">
+<img src="lendo_qrcode.png" alt="quatorze" width="700" height="600">
 </p>
 
 Abra qualquer foto da base de dados e aponte a câmera do smartphone para a imagem.
