@@ -66,7 +66,10 @@ saudável ou não.
 
 Comece descendo a página e escolha a opção “One label per data item”.
 Esta opção define se o nosso projeto é de classificação ou detecção de
-objetos. <img src="dezesseis.png" alt="16" width="750" height="600">
+objetos. 
+<p>
+  
+<img src="dezesseis.png" alt="16" width="750" height="600">
 <p>
 
 Clique em Add data e Upload Data.
