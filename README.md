@@ -1,4 +1,4 @@
-# Passo a Passo no 1º projeto de Inteligência artificial
+# Passo a Passo no 1º projeto de Inteligência artificial (IA)!
 
 
 # Introdução
@@ -24,7 +24,7 @@ qualquer pessoa sem experiência na área.
 # Crie seu projeto
 
 Acesse o site da <a href="https://edgeimpulse.com/">Edge Impulse</a> e
-crie sua conta de forma gratuita(Clique no Get Started no canto
+crie sua conta de forma gratuita (Clique no Get Started no canto
 superior).
 <p>
 
@@ -35,7 +35,7 @@ essa aba:
 <img src="primeira.png" alt="primeira" width="500" height="500">
 <p>
 
-Escolha o nome do seu projeto,selecione a opção Personal e selecione
+Escolha o nome do seu projeto, selecione a opção Personal e selecione
 Public.
 <p>
 
@@ -58,7 +58,7 @@ Por esse motivo, a preferência é criar um projeto público.
 
 <p>
 
-Este será o menu que trabalharemos até o final do projeto, para começar
+Este será o menu que trabalharemos até o final do projeto. Para começar
 precisamos obter um conjunto de dados, um dataset, que servirá como
 treinamento e teste para nossa IA aprender a identificar se o pulmão é
 saudável ou não.
@@ -70,6 +70,8 @@ objetos. <img src="dezesseis.png" alt="16" width="750" height="600">
 <p>
 
 Clique em Add data e Upload Data.
+<p>
+  
 <img src="segunda.png" alt="segunda" width="750" height="600">
 
 <p>
@@ -91,20 +93,24 @@ mais difundidos.
 As imagens estão disponíveis
 <a href="https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset">aqui</a>,
 ao acessar faça o download e extraia a pasta zip.
+<p>
+  
 <img src="Terceira.png" alt="Terceira" width="800" height="500"> <br>
 <br>
 <p>
 
 Volte ao Edge Impulse e selecione:
+<p>
+  
 <img src="Quarta.png" alt="Quarta" width="700" height="500">
 <p>
 
 Este processo será feito 2 vezes, a primeira vez selecione a pasta
 Chest_Radiography_Database e depois a Pasta Normal e coloque o nome
-(label) de Pulmão saudável e clique em Upload Data. Na segunda vez abra
+(label) de "Pulmão Saudável" e clique em Upload Data. Na segunda vez abra
 novamente esta aba, selecione novamente a Pasta
 Chest_Radiography_Database e depois a Pasta Tuberculosis e coloque o
-nome de Pulmão doente.
+nome de "Pulmão Doente".
 <p>
 
 Após a coleta de imagens, já é possível criar e treinar nossa IA.
@@ -122,6 +128,8 @@ artificial e perceberá como é simples o uso da plataforma.
 Ao aparecer esta tela, clique em Save. Essas configurações são
 necessárias apenas para quem pretende embarcar o projeto em um
 processador específico.
+<p>
+  
 <img src="quinta.png" alt="quinta" width="700" height="500">
 <p>
 
@@ -135,18 +143,24 @@ ultrapassar o limite de 20 minutos gratuitos disponíveis na plataforma.
 
 A configuração da altura e largura será 96 pixels e o Resize Mode será
 alterado para Squash.
+<p>
+  
 <img src="sexta.png" alt="sexta" width="700" height="500">
 <p>
 
 Ao lado clique no Add Processing block e selecione a opção Image, a
 função deste bloco é fazer o pré-processamento da imagem com um código
 já criado pela a própria Edge Impulse.
+<p>
+  
 <img src="setima.png" alt="setima" width="700" height="500">
 <p>
 
 Clique no Add Learning Block e selecione o Transfer Learning, um código
 previamente treinado pela própria plataforma quer irá fazer o ajuste
 fino para se enquadrar em nosso projeto.
+<p>
+  
 <img src="oitava.png" alt="oitava" width="700" height="500">
 <p>
 
@@ -162,15 +176,23 @@ modo, essa conversão pode diminuir o processamento e simplificar a
 extração de características. É preciso tomar cuidado com essa escolha,
 pois, dependendo do projeto, poderá diminuir a eficácia dele. No
 entanto, como o projeto criado usará imagens de raio-X, não haverá
-problema. <img src="dez.png" alt="dez" width="700" height="500">
+problema. 
+<p>
+  
+<img src="dez.png" alt="dez" width="700" height="500">
 <p>
 
 Clique em Generate features e espere ficar pronto.
+<p>
+  
 <img src="onze.png" alt="onze" width="700" height="500">
 <p>
 
 Depois, clique em Transfer Learning. Quando a tela aparecer, clique em
-Save & Train. <img src="doze.png" alt="doze" width="700" height="500">
+Save & Train. 
+<p>
+  
+<img src="doze.png" alt="doze" width="700" height="500">
 <p>
 
 Espere o treinamento ser concluído, costuma levar alguns minutos.
@@ -212,13 +234,16 @@ de 80% para treiná-la e 20% para testá-la.
 
 Clique em Model Testing, selecione Classify all e aguarde até que o
 processo seja concluído.
+<p>
+  
 <img src="treze.png" alt="treze" width="700" height="500">
 
 <h2>
 
 Os resultados do nosso projetos foram esses:
 </h2>
-
+<p>
+  
 <br> <img src="quatorze.png" alt="quatorze" width="700" height="600">
 <p>
 
@@ -239,8 +264,15 @@ utilização da linguagem C# e a programação em Arduino.
 <p>
 
 O QR code do nosso projeto para escaneamento está disponível abaixo.
+
+<p>
+
 <img src="quinze.png" alt="quatorze" width="700" height="600">
 <p>
+
+Com o seu smartphone, leia o QR-code e aguarde o aplicativo ser instalado.
+Abra qualquer foto da base de dados e aponte a câmera do smartphone para a imagem.
+Veja na tela do aparelho o diagnóstico produzido pelo seu primeiro projeto de IA!
 
 Caso queria acessar o
 <a href="https://studio.edgeimpulse.com/public/649874/live">link</a>
