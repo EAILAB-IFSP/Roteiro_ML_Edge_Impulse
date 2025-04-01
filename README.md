@@ -1,4 +1,4 @@
-# Passo a Passo no 1º projeto de Inteligência artificial (IA)!
+# Passo a Passo no 1º projeto de Inteligência Artificial (IA)!
 
 
 # Introdução
