@@ -88,7 +88,7 @@ devemos nos atentar a confiabilidade das imagens.
 
 Com esta problemática de confiabilidade o EAILab possui um
 <a href="https://eailab.labmax.org/2024/06/17/datasets-de-acesso-livre-para-projetos-de-i-a/">post</a>
-com os conjuntos de dados(datasets) de acesso livre para projetos de IA
+com os conjuntos de dados (datasets) de acesso livre para projetos de IA
 mais difundidos.
 
 <p>
