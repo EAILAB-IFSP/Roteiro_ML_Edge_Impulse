@@ -110,7 +110,7 @@ nome de Pulmão doente.
 Após a coleta de imagens, já é possível criar e treinar nossa IA.
 <h2>
 
-Configure a Inteligência artificial
+# Configure a Inteligência artificial
 </h2>
 
 <p>
@@ -198,7 +198,7 @@ no site do EAILab e aprenda sobre rede neural convolucional e suas
 aplicações.
 <h2>
 
-Testando a eficácia do projeto
+# Testando a eficácia do projeto
 </h2>
 
 <p>
@@ -226,7 +226,7 @@ Lembre-se de que a inteligência artificial possui um fator de
 aleatoriedade, o que pode resultar em pequenas variações nos resultados.
 <h2>
 
-Embarque seu projeto
+# Embarque seu projeto
 </h2>
 
 <p>
