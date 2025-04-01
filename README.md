@@ -280,7 +280,7 @@ Com o seu smartphone, leia o QR-code e aguarde o aplicativo ser instalado.
 <img src="lendo_qrcode.png" alt="quatorze" width="700" height="600">
 </p>
 
-Abra qualquer foto da base de dados e aponte a câmera do smartphone para a imagem.
+Abra qualquer foto da base de dados, ou uma imagem nova não utilizada durante a criação da IA. Aponte a câmera do smartphone para a imagem.
 </p>
 *** PARABÉNS! ***
 </p>
