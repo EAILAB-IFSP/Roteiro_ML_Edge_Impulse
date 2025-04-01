@@ -277,7 +277,6 @@ O QR code do nosso projeto para escaneamento está disponível abaixo.
 
 Com o seu smartphone, leia o QR-code e aguarde o aplicativo ser instalado.
 <p>
-  
 <img src="lendo_qrccode.png" alt="quatorze" width="700" height="600">
 </p>
 
@@ -287,7 +286,7 @@ Abra qualquer foto da base de dados e aponte a câmera do smartphone para a imag
 </p>
 Veja na tela do aparelho o diagnóstico produzido pelo seu primeiro projeto de IA!
 </p>
-<img src="Pulmão_saudavel.png" alt="quatorze" width="700" height="600">
+<img src="Pulmão_saudável.png" alt="quatorze" width="700" height="600">
 </p>
 <img src="Pulmão_doente.png" alt="quatorze" width="700" height="600">
 </p>
