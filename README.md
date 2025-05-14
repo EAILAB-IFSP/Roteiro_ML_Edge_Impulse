@@ -2,6 +2,8 @@
 
 <h1>Passo a Passo no 1º projeto de Inteligência Artificial (IA)!</h1>
 
+<p> <a href="https://eailab-ifsp.github.io/Roteiro_ML_Edge_Impulse/">Clique Aqui Para Visualizar em HTML</a> <p>
+
 # Introdução
 
 O roteiro tem como objetivo apresentar a plataforma Edge Impulse,
@@ -292,5 +294,5 @@ Veja na tela do aparelho o diagnóstico produzido pelo seu primeiro projeto de I
 <img src="Pulmão_doente.png" alt="quatorze" width="700" height="600">
 </p>
 
-Caso queria acessar o
+Para ver o projeto diretamente no Edge impulse, clique no
 <a href="https://studio.edgeimpulse.com/public/649874/live">link</a>
