@@ -1,4 +1,4 @@
-<img src="Logo_Dourado.jpg" class="center" style="width:50%">
+    <img src="Logo_Dourado.jpg" class="center" style="width:50%">
 
 <h1>Passo a Passo no 1º projeto de Inteligência Artificial (IA)!</h1>
 
